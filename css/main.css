@@ -520,6 +520,7 @@ section {
   height: 300px;
   padding: 10px;
   border-radius: 50%;
+  object-fit: cover;
 }
 
 
@@ -529,6 +530,7 @@ section {
   height: 300px;
   padding: 10px;
   border-radius: 50%;
+  object-fit: cover;
 }
 
 .img-3 img {
@@ -536,6 +538,7 @@ section {
   height: 300px;
   padding: 10px;
   border-radius: 50%;
+  object-fit: cover;
 }
 
 .img-4 img {
@@ -543,6 +546,7 @@ section {
   height: 300px;
   padding: 10px;
   border-radius: 50%;
+  object-fit: cover;
 }
 
 .img-5 img {
@@ -550,6 +554,7 @@ section {
   height: 300px;
   padding: 10px;
   border-radius: 50%;
+  object-fit: cover;
 }
 
 /* footer */
